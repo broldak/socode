@@ -53,10 +53,14 @@ def shuhaowu(): # Call me last! :D
             del l[f] # ^_^
 
     print "Goodbye, cruel world"
+
+def broldak():
+    print "this is a boring a function"
     
 if __name__ == "__main__":
     JesseAldridge()
     sricola()
     kisom()
-    lafin()
+    broldak()
     prezjordan()
+    lafin()
